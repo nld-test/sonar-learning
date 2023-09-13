@@ -1,4 +1,4 @@
-name: SonarCloud #Just a comment
+name: SonarCloud
 on:
   push:
     branches:
